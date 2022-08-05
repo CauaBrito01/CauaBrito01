@@ -5,5 +5,4 @@ ola! eu sou o Cauã 👋
 - 🔭 Estou procurando trabalhado
 - 📧 cauafranca115@gmail.
 - 📞 (15)998370577
-- Perfil Linkedin: https://www.linkedin.com/in/cau%C3%A3-brito-08ba42238
-
+- Perfil Linkedin: https://www.linkedin.com/in/cau%C3%A3-brito-08ba4223
