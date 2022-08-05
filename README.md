@@ -1,6 +1,6 @@
 ola! eu sou o Cauã 👋
 
-- 🏫 Eu estou fazendo um bacharelado em Sistemas da informação na PucPR
+- 🏫 Eu estou fazendo um bacharelado em Sistemas de informação na PucPR
 - 🌱 Estou aprendendo python,html,css,java script.
 - 🔭 Estou procurando trabalhado
 - 📧 cauafranca115@gmail.
