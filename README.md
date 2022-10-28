@@ -5,7 +5,7 @@ ola! eu sou o Cauã 👋
 - 🔭 Estou procurando trabalhado
 - 📧 cauafranca115@gmail.
 - 📞 (15)998370577
-- Perfil Linkedin: https://www.linkedin.com/in/cau%C3%A3-brito-08ba4223
+- Perfil Linkedin: https://www.linkedin.com/in/cauã-brito
 - Meu Site: https://cauabrito01.github.io/portfolio/
 <div align="center">
   <a href="https://github.com/CauaBrito01">
