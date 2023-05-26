@@ -1,7 +1,7 @@
 ola! eu sou o Cauã 👋
 
 - 🏫 Eu estou fazendo um bacharelado em Sistemas de informação na PUCPR
-- 🌱 Estou aprendendo python,html,css,javascript.
+- 🌱 Estou aprendendo python,html,css,javascript,php e c#.
 - 🔭 Estou procurando trabalhado
 - 📧 cauafranca115@gmail.
 - 📞 (15)998370577
