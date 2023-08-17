@@ -2,7 +2,7 @@ ola! eu sou o Cauã 👋
 
 - 🏫 Eu estou fazendo um bacharelado em Sistemas de informação na PUCPR
 - 🌱 Estou aprendendo python,html,css,java,javascript,php, c# e .NET.
-- 🔭 Atualmente trabalho como desenvolvedor back-end no ICI - Instituto das Cidades Inteligentes
+- 🔭 Atualmente trabalho como desenvolvedor back-end C# e .NET no ICI - Instituto das Cidades Inteligentes
 - 📧 cauafranca115@gmail.
 - 📞 (15)998370577
 - Perfil Linkedin: https://www.linkedin.com/in/cauã-brito
