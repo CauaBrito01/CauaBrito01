@@ -6,7 +6,7 @@ ola! eu sou o Cauã 👋
 - 📧 cauafranca115@gmail.
 - 📞 (15)998370577
 - Perfil Linkedin: https://www.linkedin.com/in/cauã-brito
-<div align="center">
+<div align="left">
   <a href="https://github.com/CauaBrito01">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaBrito01&layout=compact&langs_count=7&theme=dracula"/>
 </div>
