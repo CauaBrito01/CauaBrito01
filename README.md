@@ -1,7 +1,7 @@
 ola! eu sou o Cauã 👋
 
 - 🏫 Eu estou fazendo um bacharelado em Sistemas de informação na PUCPR
-- 🌱 Estou aprendendo Python,HTML,CSS,Java,Javascript,PHP, C# , .NET, Angular, Vue.js e Spring Boot
+- 🌱 Estou aprendendo Python,HTML,CSS,Java,Javascript,PHP, C# , .NET, Angular,Spring Boot e Vue.js 
 - 🔭 Atualmente trabalho como desenvolvedor back-end C# e .NET no ICI - Instituto das Cidades Inteligentes
 - 📧 cauafranca115@gmail.
 - 📞 (15)998370577
