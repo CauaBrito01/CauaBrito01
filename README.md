@@ -1,7 +1,7 @@
 ola! eu sou o Cauã 👋
 
 - 🏫 Eu estou fazendo um bacharelado em Sistemas de informação na PUCPR
-- 🌱 Estou aprendendo Python,HTML,CSS,Java,Javascript,PHP, C# , .NET, Angular e Spring Boot
+- 🌱 Estou aprendendo Python,HTML,CSS,Java,Javascript,PHP, C# , .NET, Angular, Vue.js e Spring Boot
 - 🔭 Atualmente trabalho como desenvolvedor back-end C# e .NET no ICI - Instituto das Cidades Inteligentes
 - 📧 cauafranca115@gmail.
 - 📞 (15)998370577
@@ -21,6 +21,7 @@ ola! eu sou o Cauã 👋
   <img align="center" alt="dot-net" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" />
   <img align="center" alt="Cauã-Angualr" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />                     
   <img align="center" alt="Cauã-Spring" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />                     
+  <img align="center" alt="Cauã-Spring" height="30" width="50" src="https://img.icons8.com/?size=100&id=rY6agKizO9eb&format=png&color=000000" />                     
 
 </div>
   
